@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+data/raw/*.csv
+data/raw/*.xlsx
+data/processed/*.csv
+*.twbx
+.DS_Store
+
+"Update .gitignore to exclude data files"
