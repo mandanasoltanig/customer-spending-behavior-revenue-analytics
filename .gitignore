@@ -224,3 +224,4 @@ data/processed/*.csv
 .DS_Store
 
 "Update .gitignore to exclude data files"
+sql/insert_invoice_items.sql
