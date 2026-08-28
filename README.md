@@ -1,15 +1,13 @@
 # Customer Spending Behavior & Revenue Analytics
 
-End-to-end retail analytics project using **Python, SQL, statistical analysis, and Tableau** to analyze customer spending, revenue performance, customer value, and cancellation risk using the **Online Retail II dataset**.
-
-## 🔗 Project Links
-
-| Resource        | Link                                                                                                                               |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| 💻 GitHub       | [View Repository](https://github.com/mandanasoltanig/customer-spending-behavior-revenue-analytics)                                 |
-| 📊 Tableau      | [View Interactive Dashboard](https://public.tableau.com/app/profile/mandana.soltani/viz/CustomersSpendingBehaviorRevenueAnalytics) |
-| 📋 Trello       | [View Project Board](https://trello.com/b/yXOJuKSd/customer-spending-behavior-revenue-analytics)                                   |
-| 🎤 Presentation | [View Slides](https://docs.google.com/presentation/d/1QhQvzaJ3FMhMy1O5VjCKTYyczLIRpZbvigvdVYR84bY/edit)                            |
+End-to-end retail analytics project using **Python, SQL, statistical analysis, and Tableau** to analyze customer spending, revenue performance, customer value, and cancellation risk using the **Online Retail II dataset**.## 🔗 Project Links
+
+| Resource | Link |
+| --- | --- |
+| 💻 GitHub | [View Repository](https://github.com/mandanasoltanig/customer-spending-behavior-revenue-analytics) |
+| 📊 Tableau | [View Interactive Dashboard](https://public.tableau.com/app/profile/mandana.soltani/viz/CustomersSpendingBehaviorRevenueAnalytics) |
+| 📋 Trello | [View Project Board](https://trello.com/b/yXOJuKSd/customer-spending-behavior-revenue-analytics) |
+| 🎤 Presentation Slides | [View Presentation](https://docs.google.com/presentation/d/1g6bYrEVb6uhyt5JSZ7wq4IuJHXmDdkz8fjGDFOBZQuA/edit?usp=sharing) |84bY/edit)                            |
 
 ## 📌 Project Overview
 
